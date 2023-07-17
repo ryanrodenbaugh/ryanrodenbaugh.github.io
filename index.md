@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-My name is Lorem Ipsum. More [about me](/about/).
+My name is Ryan Rodenbaugh. More [about me](/about/).
