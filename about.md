@@ -10,4 +10,4 @@ You can find me on [Twitter](https://twitter.com/RyanRodenbaugh/), [Instagram](h
 
 Also, I guess [LinkedIn](https://www.linkedin.com/in/ryanrodenbaugh/) if you like that. 
 
-For some of my interests, check out my [Letterboxd](https://letterboxd.com/RyanRodenbaugh/)) and [Goodreads](https://www.goodreads.com/user/show/52144156-ryan-rodenbaugh) profiles. 
+For some of my interests, check out my [Letterboxd](https://letterboxd.com/RyanRodenbaugh/) and [Goodreads](https://www.goodreads.com/user/show/52144156-ryan-rodenbaugh) profiles. 
