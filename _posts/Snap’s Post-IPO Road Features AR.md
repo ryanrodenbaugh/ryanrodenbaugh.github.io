@@ -1,0 +1,52 @@
+_This post originally appeared at [immersed.io](https://immersed.io/future-of-ipo-snap-augmented-reality/?ref=ryanrodenbaugh.com). I wrote it while I was a research analyst covering VR and AR technologies._
+
+In a roadshow [video](http://snap.netroadshow.com/retail/disclaimer.aspx?ref=ryanrodenbaugh.com) leading up to the Snap IPO (infographic with key points of the IPO [here](http://files.pitchbook.com/pdf/PitchBook-Snap_IPO-_Datagraphic.pdf?ref=ryanrodenbaugh.com)) CEO Evan Spiegel, said of the company, “We’re at the beginning of what cameras can do.”
+
+That beginning refers to Snap, Inc.’s potential to become the first big player in consumer augmented reality. Snap is beginning to roll out more and more hardware products, which is likely a push to both attract investors and create products that are more difficult for [other companies](https://www.producthunt.com/@jackdweck/collections/stories-format?utm_campaign=236_2017-03-01&utm_medium=email&utm_source=Product+Hunt&utm_term=editorial) to copy.
+
+Snap is rolling out popular AR-enabled features and although these features are the [most widely used](http://mashable.com/2016/12/06/most-downloaded-apps-2016/?ref=ryanrodenbaugh.com#nQJuOJ2925q8) AR features available to any consumer, the company has not branded the features as augmented reality. Over the past two years, Snap has rolled out different AR capabilities within the mobile app (including: [lenses](https://www.snap.com/en-US/news/post/a-whole-new-way-to-see-yourselfie/?ref=ryanrodenbaugh.com), [sponsored lenses](https://www.snapchat.com/ads/sponsored-lenses?ref=ryanrodenbaugh.com), [Face Swap](http://www.pcadvisor.co.uk/how-to/social-networks/how-face-swap-in-snapchat-other-apps-new-summary-video-3636570/?ref=ryanrodenbaugh.com), [Spectacles](https://www.snap.com/en-US/news/post/introducing-spectacles/?ref=ryanrodenbaugh.com), [Scissors](https://www.snap.com/en-US/news/post/happy-holidays/?ref=ryanrodenbaugh.com), and [Paintbrush](https://www.snap.com/en-US/news/post/happy-holidays/?ref=ryanrodenbaugh.com)) while simultaneously growing the user base to 158 million daily active users.
+
+![](https://ryanrodenbaugh.com/content/images/2020/07/image-12.png)
+
+Image by me
+
+At the same time, however, all of these product updates have been fairly easy for other companies (i.e., Facebook) to duplicate. In a recent article covering the AI teams at Facebook, Facebook’s Director of Applied Machine Learning Joaquin Candela highlighted a [new product feature](https://research.fb.com/people/candela-joaquin-quinonero/?ref=ryanrodenbaugh.com).
+
+“\[The technology\] redraws a photo or streams a video in the style of an art masterpiece by a distinctive painter,” Candela said. “In fact, it’s reminiscent of the kind of digital stunt you’d see on Snapchat, and the idea of transmogrifying photos into Picasso’s cubism has already been accomplished.”
+
+The fierce competition for potentially the same users becomes particularly evident in the roll-out of Instagram Stories. Snapchat debuted in 2011 and per its S-1 filing in February, the mobile app had 158 million daily active users. Instagram rolled out Instagram Stories in early August of 2016 and as of December 2016 (5 months after launch), the product was driving [150 million daily active users](http://blog.business.instagram.com/post/155717870326/business-insights-and-ads-in-stories?ref=ryanrodenbaugh.com). In that time, Instagram has also introduced ads and a portal for businesses to use the product to create engaging content for its users.
+
+Social media sites are built on network effects -- the more users, the more value the product adds. Instagram has a total of 600 million users, 100 million of which joined in the past 6 months. Snap has not released a total users figure, but being that the product is built upon disappearing photos, the total user base would not be too far off from daily active users. As Instagram continues to grow the stories feature, it becomes increasingly important that Snap becomes a diversified business and not just a social media platform.  
+
+![](https://ryanrodenbaugh.com/content/images/2020/07/image-13.png)
+
+Image by me
+
+  
+Moving forward, and if leveraged correctly, Snap could go on to drive a competitive advantage in its hardware products. As Instagram has demonstrated with the stories feature, Snap’s successful software features can be replicated. To stay ahead of the competition, Snap’s best bet is to invest more resources into hardware products. Other companies would have a difficult time succeeding in copying Snap’s success in hardware.
+
+![](http://immersed.io/wp-content/uploads/2017/03/pasted-image-at-2017_03_08-11_42-am-2.png)
+
+Image by Snap, Inc.
+
+Spectacles, Snap’s answer to product diversity, is both tech and sunglasses. The camera sunglasses come in three colors and are branded as a stylish product. With the hardware entrance, Snap hints  toward expanding its retail experience for Spectacles and potentially other products following the hire of [Ralph Diaz](https://www.linkedin.com/in/ralph-diaz-ops/?ref=ryanrodenbaugh.com), (the former Global Director of Retail Operations at Oakley) as their Head of Retail Store Operations.
+
+While the Spectacles are a great way to get Snapchat users consistently involved with Snap, some of the recent acquisitions also hint at where Snap could be specifically looking to expand its AR capabilities.
+
+Snap’s acquisition of an Israeli AR firm [Cimagine Media](https://www.crunchbase.com/organization/cimagine-media?ref=ryanrodenbaugh.com#/entity) drew a lot of attention because where Snap’s current features allow users to augment what is there, Cimagine’s technology is all about adding augmented objects to the real world. As seen in the above photo, Cimagine can add a fun feature that would go beyond what other popular social media apps currently offer to the consumer market and would also be a huge draw for advertisers. While big-brand companies have already begun to embrace VR/AR advertising, Snapchat can make a value pitch that includes Cimagine’s spatial recognition technology and the potential to reach a daily active user market of 158 million.
+
+![](https://ryanrodenbaugh.com/content/images/2020/07/image-14.png)
+
+In the photo , the user is using Cimagine to demonstrate how a Coca-Cola stand would look next to the cash register through an augmented 3D model. (Image by Cimagine)
+
+Now that Snap is a public company, it is going to have added pressures to perform. As Facebook (through its main product and Instagram) continues to aggressively encroach on
+
+Snap’s users, Snap will have constant pressure to innovate at pace with the world-class teams of Facebook.
+
+As has been demonstrated in China, it is hard for multiple social media apps to thrive in tandem with each other. In many ways, Facebook is beginning to resemble China’s popular WeChat (Weixin) app. WeChat offers its users multiple functions such as hailing a taxi, ordering food delivery, buying movie tickets or communicating with friends. As the app has continued to add more features, its growth has also come at the expense of other Chinese social media apps.
+
+![](https://ryanrodenbaugh.com/content/images/2020/07/image-15.png)
+
+To some level, social media is a zero sum game, which, as it currently stands, does not bode well for Snap.
+
+## Enjoying these posts? Subscribe for more
