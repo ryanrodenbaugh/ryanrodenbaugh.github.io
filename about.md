@@ -9,3 +9,5 @@ My name is Ryan Rodenbaugh. I am co-founder of [Wallfacer Labs](https://wallface
 You can find me on [Twitter](https://twitter.com/RyanRodenbaugh/), [Instagram](https://www.instagram.com/ryanrodenbaugh/), and [Farcaster](https://warpcast.com/ryanrodenbaugh). 
 
 Also, I guess [LinkedIn](https://www.linkedin.com/in/ryanrodenbaugh/) if you like that. 
+
+For some of my interests, check out my [Letterboxd](https://letterboxd.com/RyanRodenbaugh/)) and [Goodreads](https://www.goodreads.com/user/show/52144156-ryan-rodenbaugh) profiles. 
