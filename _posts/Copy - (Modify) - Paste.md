@@ -1,3 +1,12 @@
+---
+layout: post
+title:	Copy, Paste and Modify
+date:	2017-08-03
+author:	Ryan Rodenbaugh
+description: N/A
+ogimage: opengraphimage.jpeg
+
+---
 There was a comment I read on Producthunt.com a while back, that really stuck with me.  
 
 ![image](https://66.media.tumblr.com/ed3f52b051a951a278cbf2a39e32b02c/tumblr_inline_ou4662qduF1v3mmrv_500.png)
