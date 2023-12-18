@@ -1,7 +1,5 @@
 _This post originally appeared on Substack as a part of my newsletter, [East Meets West](https://eastmeetswest.substack.com/?ref=ryanrodenbaugh.com)._
 
-![](https://ryanrodenbaugh.com/content/images/2021/04/Frame-8.png)
-
 Coupang’s S1 presents a compelling and succinct mission:
 
 > _To create a world where customers wonder ‘How did I ever live without Coupang?’_
