@@ -24,7 +24,10 @@ layout: default
         <li>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
           {% if post.category == "east-meets-west" %}
-            <span class="category-tag">EMW</span>
+            <a href="/east-meets-west" class="category-tag">
+              <img src="/assets/emwlogo.png" alt="EMW" class="emw-icon">
+              EMW
+            </a>
           {% endif %}
         </li>
       {% if forloop.last %}</ul>{% endif %}
