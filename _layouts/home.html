@@ -29,6 +29,12 @@ layout: default
               EMW
             </a>
           {% endif %}
+          {% if post.category == "crypto" %}
+            <a href="/crypto" class="category-tag">
+              <img src="/assets/btc.png" alt="Crypto" class="emw-icon">
+              CRYPTO
+            </a>
+          {% endif %}
         </li>
       {% if forloop.last %}</ul>{% endif %}
     {% endfor %}
