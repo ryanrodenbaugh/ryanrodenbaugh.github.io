@@ -13,12 +13,17 @@ layout: default
 <hr />
 
   {%- if site.posts.size > 0 -%}
-    <h2>{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="more-space">
-      {%- for post in site.posts limit:100 -%}
-      <li><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
-      {%- endfor -%}
-    </ul>
+    {% for post in site.posts %}
+      {% assign currentdate = post.date | date: "%Y" %}
+      {% if currentdate != date %}
+        {% unless forloop.first %}</ul>{% endunless %}
+        <h2>{{ currentdate }}</h2>
+        <ul class="more-space">
+        {% assign date = currentdate %}
+      {% endif %}
+        <li><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+      {% if forloop.last %}</ul>{% endif %}
+    {% endfor %}
   {%- endif -%}
 
 </main>
