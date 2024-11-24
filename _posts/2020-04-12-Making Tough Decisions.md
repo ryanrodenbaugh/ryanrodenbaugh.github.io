@@ -19,4 +19,4 @@ It’s a somber and incredibly difficult decision. Whichever path Trump chooses 
 
 I don’t care if you love Trump or hate Trump, we should all be aligned in hoping Trump listens to his advisors and makes the ‘best’ decision possible, given all the facts at his disposal.
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

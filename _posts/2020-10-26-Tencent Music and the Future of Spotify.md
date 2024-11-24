@@ -298,4 +298,4 @@ Thanks for reading! 💜
 
 If you enjoy this post or any other posts, please consider sharing, commenting, or just giving the post a “<3” on Substack
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

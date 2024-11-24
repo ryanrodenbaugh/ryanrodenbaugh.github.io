@@ -194,4 +194,4 @@ I look forward to following Coupang for the years to come!
 
 As always, thanks for reading!
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

@@ -8,4 +8,4 @@ The concept of the Invisible Hand comes from Adam Smith in his 1776 piece “An 
 
 Reading the quote above about Bitcoin got me thinking about the idea of the invisible hand in a different way, in what Hayek would refer to as, “spontaneous order”.  How many systems are there in our daily lives that we go through that “just work” that we regularly take for granted? The one that initially comes to mind for me is driving. I’ve been fortunate enough to never be in a serious accident, but I also consider myself to be a very cautious driver, usually opting on the side of caution, letting others go first, not speeding through yellow lights, etc. Having been a passenger in many other people’s cares, however, I know that not everyone drives this way, yet by and large driving works all around the world (yes 10K deaths and 1M+ injuried from autho every year, but generally it works). What are other systems that require the indepedent action of millions of people that just work? (not necessarily market or finance related)
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

@@ -18,4 +18,4 @@ Benefits I get from meditation (and that I broadly think 'Type A' people will en
 
 _P.S., There is a little bit of science dabbled throughout my above points, but mostly those are my anecdotal benefits from the practice._
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

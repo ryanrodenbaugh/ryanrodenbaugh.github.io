@@ -107,4 +107,4 @@ As far as a quick search could tell me, US presidential elections have never bef
 
 If elections do take place, you know the results will be extremely contested.
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

@@ -203,4 +203,4 @@ If NetEase continues its growth throughout SEA and Japan tied with a more monopo
 
 (Sorry for a lame conclusion this week! I was a bit stuck on how to best wrap this one up😅😅)
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

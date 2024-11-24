@@ -18,4 +18,4 @@ You can slice and dice the sheet however you want. I’ve been ranking my meets,
 
 ![image](https://66.media.tumblr.com/3f8264418356839e2a1bf1cb4e16b185/5149b6440d87f52f-8c/s500x750/112237b38790b9e16c72dc12f98b74bc4716fc08.png)
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

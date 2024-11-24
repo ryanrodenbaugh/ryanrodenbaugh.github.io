@@ -303,4 +303,4 @@ And to wrap this post up, a fun TikTok comparing Grab and Gojek:
 
 ![](https://cdn.substack.com/image/upload/w_728,c_limit/l_twitter_play_button_rvaygk,w_120/xacapobxrko3uenfxy9g)
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

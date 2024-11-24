@@ -255,4 +255,4 @@ In the comments, please let me know what you think about this article and Ant Gr
 
 As always, thanks for reading!!!! 😁
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

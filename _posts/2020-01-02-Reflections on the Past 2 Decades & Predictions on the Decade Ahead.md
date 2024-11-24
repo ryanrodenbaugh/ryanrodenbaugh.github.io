@@ -20,4 +20,4 @@ This [short video](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.bbc.com%2Fne
 
 The 2020s will also be categorized by governments trying to roll back the progress of the democratization of voice made during the 2010s. Countries like China have already sanctioned off “The Chinese Internet” with deep surveillance and censorship apparatuses. Other global superpower like Russia are now discussing doing the same. Hopefully “dissident tech” like VPNs, cryptocurrencies, and [anti-facial recognition clothing](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.reddit.com%2Fr%2FHongKong%2Fcomments%2Fdsbmjh%2Finspired_by_the_protests_i_made_a_cap_that_blocks%2F&t=YWIyY2UxYTdjMDZjODgyODY2M2U2NWYzOGJjZWQzMjU4NzlmYjBiOSxDNnZZWE9oUg%3D%3D&b=t%3AokV1QflKCp7Agf216l_L8Q&p=https%3A%2F%2Fryanrodenbaugh.com%2Fpost%2F190021282637%2Freflections-on-the-past-2-decades-predictions-on&m=1&ref=ryanrodenbaugh.com) will be able to counteract the heavy hand of governments.
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

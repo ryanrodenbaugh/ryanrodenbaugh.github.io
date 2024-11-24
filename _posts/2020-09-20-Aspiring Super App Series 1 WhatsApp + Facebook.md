@@ -270,4 +270,4 @@ Going forward I think this “Aspiring Super App” series will be a bit more sp
 
 If you feel compelled, I would be very grateful if you Tweet this article out, share it with friends, or link out to it wherever people might enjoy it.
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

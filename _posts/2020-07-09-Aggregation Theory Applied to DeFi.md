@@ -118,4 +118,4 @@ Second, In Ethereum’s current form, gas costs make aggregation prohibitively e
 
 The silver lining here for a DeFi aggregator is that in many ways, they’d be able to create a better user-experience and more easily monetize by becoming more centralized. But, in most cases, this defies why these teams began building these projects. Finding the balance between building sustainable business models and remaining decentralized will be one of the most interesting things to follow over the coming years.
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

@@ -112,4 +112,4 @@ The Silicon Valley startup accelerator Y Combinator goes by the simple [motto](h
 
 But, when the music stops, is the product still something that people want?
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

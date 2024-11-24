@@ -271,4 +271,4 @@ As always, thank you for reading,
 
 @ryanrodenbaugh
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

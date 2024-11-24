@@ -271,4 +271,4 @@ One thing is for sure, WeChat has influenced LOTS of other technology company fo
 
 My next issue will be a dissection of what exactly makes a Super App, the history of “Super Apps” (spoiler, it starts before WeChat), and what companies are poised to become Super Apps. My next issue might be 1 week late as (1) while I have a massive outline for my next post, I predict it’s going to be difficult to condense my ideas (2) I am taking a brief vacation and want to try and minimize screen time
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

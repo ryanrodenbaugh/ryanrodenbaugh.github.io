@@ -10,4 +10,4 @@ I was speaking to a friend who is not a Jordan Peterson fan about JP and as I wa
 
 As a testimony to the positive impact that he has had on people (specifically, young men) scroll down to the “third letter writer” (Control+F “third”) section -[https://jordanbpeterson.com/political-correctness/letters/](https://t.umblr.com/redirect?z=https%3A%2F%2Fjordanbpeterson.com%2Fpolitical-correctness%2Fletters%2F&t=MGM3MDkxMDNkZTk2MmU0YWM1ZjlkM2E3OTA1ZDFkMGRlNWU2MWIwNSx0b3FiUkhhZw%3D%3D&b=t%3AokV1QflKCp7Agf216l_L8Q&p=https%3A%2F%2Fryanrodenbaugh.com%2Fpost%2F186357940997%2Fbrief-thoughts-on-jordan-peterson&m=1&ref=ryanrodenbaugh.com)  
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

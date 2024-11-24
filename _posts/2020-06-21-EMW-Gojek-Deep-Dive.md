@@ -272,4 +272,4 @@ Prior to the Facebook investment, there were talks that Softbank (a Grab investo
 
 With new leadership at Gojek, there could be an opportunity for an acquisition/merger with Grab, especially given that Grab has picked up more market share in other SEA countries than Gojek has. This would give both companies an opportunity to stop burning cash and really dominate Southeast Asia.
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

@@ -34,4 +34,4 @@ Right now, if I wanted to find an insight like this, I'd have to do a helluva lo
 
 That's all I've got for now. Just a brain dump of why I think Big Sky Health is an awesome company and all of the opportunity in front of them. Something I'll be exploring on [my Substack](https://eastmeetswest.substack.com/?ref=ryanrodenbaugh.com) soon is the idea of Super Apps in Asia. Apps like WeChat, Gojek, Grab, act as the operating system of the phone for their users. Through an app like WeChat, users can text, call, post social updates, make payments, shop, and more. It's unlikely an app like this ever takes off in the US (for reasons I'll explore on my substack), but I believe that "verticalized Super Apps" (or Super Apps for X) have a ton of potential. I'd love to see Big Sky Health develop into a **Super App for Health** that is a unified app where all of my health data can live and lead to highly specific, personalized, and contextualized insights.
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

@@ -10,4 +10,4 @@ We’d all do well to show some more tolerance in our daily interactions, especi
 
 Subconsciously, one of the things I look for most in people I associate with is a high degree of tolerance. I like people who are able to listen and propose crazy ideas while understanding that these are ideas for the sake of ideas. I crave people who “would not even frown at a speaker promoting the most repulsive ideas. They might, of course, express reservations and offer alternatives.“ This balance and back and forth is what drives discussions forward. If we can’t tolerate things that feel taboo, we wind up not addressing them, which can do more harm than ‘_daring’_ to speak of them ever would.
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

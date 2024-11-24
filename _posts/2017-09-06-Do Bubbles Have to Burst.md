@@ -48,4 +48,4 @@ My other conclusion – which I am still thinking through – is why does this b
 
 Time will tell on this one, but avoiding the markets altogether right now, is a mistake.
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

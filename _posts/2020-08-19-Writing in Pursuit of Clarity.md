@@ -32,4 +32,4 @@ If you’re interested in our group of co-authors and co-creators (or you know s
 
 _Thanks to_ [_Alizeh Iqbal_](https://twitter.com/jokesonalizeh?ref=ryanrodenbaugh.com)_,_ [_JLai_](https://twitter.com/jonwlai?ref=ryanrodenbaugh.com)_,_ [_Jen Yip_](https://twitter.com/nifferkin?ref=ryanrodenbaugh.com)_,_ [_Nadia Eldeib_](https://twitter.com/nseldeib?ref=ryanrodenbaugh.com)_,_ [_Andrew Woo_](https://twitter.com/androowoo?ref=ryanrodenbaugh.com)_, and_ [_Leon Lin_](https://twitter.com/Leonlinsx?ref=ryanrodenbaugh.com) _for their contributions to this piece._
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

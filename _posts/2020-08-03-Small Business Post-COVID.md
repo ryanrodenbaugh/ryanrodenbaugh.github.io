@@ -12,4 +12,4 @@ A few thoughts that come to mind:
 -   Not to make this overly political, but at least in the US, most of the pressure for an extended lockdown has come from "the left". Cities run by democratic mayors are playing directly into the hands of big business by not giving sound guidance and support to small businesses that are being forced to close as a result
 -   I would not be surprised if the rate of people starting small and medium businesses decreased as a result of COVID. One contributing factor is that the fear of starting a business having seen the impact COVID brought. Small business (e.g., local coffee shop) have always been tricky from a financial perspective and COVID has illuminated how weak the financial foundations of some of these businesses are.
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

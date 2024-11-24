@@ -263,4 +263,4 @@ That said, there are a lot of subtleties to WeChat that made it especially poise
 
 This post was getting very long, so I broke it into two parts. This post (part one) covers the history of WeChat, chronologically going through its founding story and product evolution. Part two will cover some of the themes of WeChat.
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

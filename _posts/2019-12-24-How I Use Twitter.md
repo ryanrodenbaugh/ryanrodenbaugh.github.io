@@ -58,4 +58,4 @@ For a while, the regret I had with using Twitter was that I would be reading a l
 -   Instagram I recently made while I was living in Asia because I was taking a lot of cool pictures that I wanted to easily share with friends and family. I do not follow anyone on Instagram for the same reason as blank newsfeed on Facebook…. I don’t need more distractions.
 -   Oddly, my 2nd most used social network is probably WeChat. They have a feature called “Moments” which is like a Twitter feed among your contacts. From my time living and working in Asia, I have a lot of friends where Moments is their primary posting channel.
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

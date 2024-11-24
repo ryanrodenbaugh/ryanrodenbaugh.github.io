@@ -2,4 +2,4 @@ In a prior role, I was asked to write out what I thought were interesting areas 
 
 Some of my additional areas of interest/investment can be found in [this doc](https://t.umblr.com/redirect?z=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1vKmgd3m46SCVa_FflDzdPo5zG5F3S9qyVZddmPlrTs4%2Fedit&t=YjQxMWM2NWJkNWEzMGRmYzRjOWU0MTQ3YzhiY2JkZTc1MjUyZWI2MCw5aTl1UEwwTA%3D%3D&b=t%3AokV1QflKCp7Agf216l_L8Q&p=https%3A%2F%2Fryanrodenbaugh.com%2Fpost%2F612597685541814272%2Fthe-future-of-work&m=1&ref=ryanrodenbaugh.com). These ideas are less crystallized and as a result, the format is more brain dump.
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

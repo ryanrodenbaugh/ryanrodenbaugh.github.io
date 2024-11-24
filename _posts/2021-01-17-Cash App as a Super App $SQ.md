@@ -289,4 +289,4 @@ At a time when small and medium-sized businesses are struggling, the Cash App co
 
 If you liked this article, please consider giving it a “❤️” on Substack or sharing it with friends!
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

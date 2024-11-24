@@ -24,7 +24,7 @@ Random…
 -   Favorite music video: [Bop by DaBaby](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D28hYUZMufDg&t=OGY5MmYwN2JlNmEyNmNkNWMxMGQ2NzQxZTk5MTQzNjg2NjM4NmE2ZiwyeFd4enM1Sg%3D%3D&b=t%3AokV1QflKCp7Agf216l_L8Q&p=https%3A%2F%2Fryanrodenbaugh.com%2Fpost%2F189987583482%2Freflections-on-2019&m=1&ref=ryanrodenbaugh.com)
 -   Favorite musical artists that I discovered this year: [Four Tet](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpeHvj5TedFI%26list%3DPLD8lj82m2VI7t_WK0-Ja2Ze6-NCiApszE%26index%3D4&t=ZmVmMjFkM2Y1NWFiODY0OGEzNzNhNGFmOWNhYWU1MWY1ODUwNjI4NywyeFd4enM1Sg%3D%3D&b=t%3AokV1QflKCp7Agf216l_L8Q&p=https%3A%2F%2Fryanrodenbaugh.com%2Fpost%2F189987583482%2Freflections-on-2019&m=1&ref=ryanrodenbaugh.com) / [Tourist](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlBwtKSrFyjI&t=YmVmNDY4NGJiNzljMGVmNWRiMmE2OGY5ZTcyNTRhM2RjMjBjMmI1NywyeFd4enM1Sg%3D%3D&b=t%3AokV1QflKCp7Agf216l_L8Q&p=https%3A%2F%2Fryanrodenbaugh.com%2Fpost%2F189987583482%2Freflections-on-2019&m=1&ref=ryanrodenbaugh.com) / [Peggy Gou](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSlbVgjFvE3I&t=ZTVkNWQ2NDdjMzNhZTIyMGM4ZWZjMzcwNzAzYmFmY2JiNjNmZTBlZSwyeFd4enM1Sg%3D%3D&b=t%3AokV1QflKCp7Agf216l_L8Q&p=https%3A%2F%2Fryanrodenbaugh.com%2Fpost%2F189987583482%2Freflections-on-2019&m=1&ref=ryanrodenbaugh.com)
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)
 
   
 

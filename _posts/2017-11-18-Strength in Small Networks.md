@@ -28,4 +28,4 @@ The question that arises as an investor, is what are the underlying causes of th
 
 Additionally, what are the consequences of this change? The one that immediately comes to mind is larger filter bubbles and less experience with diverse views.
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

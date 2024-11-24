@@ -88,4 +88,4 @@ Random...
 -   Favorite TV Show: N/A
 -   Favorite Musical Artist I Discovered this Year: O'Flynn whose song, [Tru Dancing](https://www.youtube.com/watch?v=dwokIyWtBhw&ref=ryanrodenbaugh.com) is my most played song of the year. Runner Up: Bicep whose new song, [Apricots](https://www.youtube.com/watch?v=Govg_XmORLE&ref=ryanrodenbaugh.com) is amazing.
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)

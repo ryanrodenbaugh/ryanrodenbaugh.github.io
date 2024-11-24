@@ -103,4 +103,4 @@ The other issue that makes AV implementation difficult at scale is that in the c
 
 Prior to typing this post, I was very bullish on the speed at which autonomous vehicles would be on road, in bulk. Now, I am a bit more skeptical of the speed at which we will see AVs as the norm.
 
-## Enjoying these posts? Subscribe for more
+## DM on X or Faracster if you would like to discuss any of these ideas (@ryanrodenbaugh)
