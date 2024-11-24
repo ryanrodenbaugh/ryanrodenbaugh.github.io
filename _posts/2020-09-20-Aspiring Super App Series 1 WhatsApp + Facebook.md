@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aspiring Super App Series "#"1 WhatsApp + Facebook
+title: Aspiring Super App Series - WhatsApp + Facebook
 category: east-meets-west
 ---
 

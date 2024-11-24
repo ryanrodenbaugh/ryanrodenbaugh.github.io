@@ -1,7 +1,13 @@
+---
+layout: post
+title: How to Build a Super App
+category: east-meets-west
+---
+
 -   __This post originally appeared on Substack as a part of my newsletter,__ [__East Meets West__](https://eastmeetswest.substack.com/?ref=ryanrodenbaugh.com)__._ Please visit there to to subscribe😁_
 -   _A slightly edited version of this article was also republished on TechinAsia.com, you can read that **[here](https://www.techinasia.com/deep-dive-super-app-booming-east-not-west?ref=ryanrodenbaugh.com)**._
 
-![](https://ryanrodenbaugh.com/content/images/2020/09/Group-3.png)
+
 
 ## ******Introduction******
 
