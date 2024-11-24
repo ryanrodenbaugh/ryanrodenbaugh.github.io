@@ -1,3 +1,9 @@
+---
+layout: post
+title: The Coupang IPO
+category: east-meets-west
+---
+
 _This post originally appeared on Substack as a part of my newsletter, [East Meets West](https://eastmeetswest.substack.com/?ref=ryanrodenbaugh.com)._
 
 Coupang’s S1 presents a compelling and succinct mission:

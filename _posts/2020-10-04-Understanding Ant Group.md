@@ -1,3 +1,9 @@
+---
+layout: post
+title: Understanding Ant Group
+category: east-meets-west
+---
+
 ### **Introduction**
 
 Ant Group is one of the most valuable companies in the world with an estimated private market value above $250 billion. It is a technology company that offers dozens of financial services products and Super App functionalities throughout China. They also operate globally via joint ventures and investments into other payments companies.

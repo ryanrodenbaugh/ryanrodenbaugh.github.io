@@ -1,6 +1,10 @@
-_This post originally appeared on Substack as a part of my newsletter, [**East Meets West**](https://eastmeetswest.substack.com/?ref=ryanrodenbaugh.com). Please follow that link to subscribe._
+---
+layout: post
+title: NetEase Videogames and Pigs
+category: east-meets-west
+---
 
-![](https://ryanrodenbaugh.com/content/images/2020/12/Frame-8.png)
+_This post originally appeared on Substack as a part of my newsletter, [**East Meets West**](https://eastmeetswest.substack.com/?ref=ryanrodenbaugh.com). Please follow that link to subscribe._
 
 While researching an earlier post on [Tencent Music](https://eastmeetswest.substack.com/p/tencent-music?ref=ryanrodenbaugh.com), I kept coming across their competitor, ‘NetEase Cloud Music’. I had heard of NetEase in the context of China’s big internet companies, but I had no clue what the company did.
 

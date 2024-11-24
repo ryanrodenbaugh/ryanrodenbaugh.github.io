@@ -1,6 +1,10 @@
-_This post originally appeared on Substack as a part of my newsletter, [East Meets West](https://eastmeetswest.substack.com/?ref=ryanrodenbaugh.com)._
+---
+layout: post
+title: What is Grab?
+category: east-meets-west
+---
 
-![](https://ryanrodenbaugh.com/content/images/2020/08/Group-3-1.png)
+_This post originally appeared on Substack as a part of my newsletter, [East Meets West](https://eastmeetswest.substack.com/?ref=ryanrodenbaugh.com)._
 
 Grab is a Singapore-headquartered Southeast Asian SuperApp. The company is best known for its ride-hailing services throughout Southeast Asia (SEA) but also offers dozens of other services including payments, delivery services, and a suite of financial products.
 

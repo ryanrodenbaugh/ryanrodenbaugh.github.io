@@ -1,6 +1,10 @@
-_This post originally appeared on Substack as a part of my newsletter, [East Meets West](https://eastmeetswest.substack.com/?ref=ryanrodenbaugh.com)._
+---
+layout: post
+title: Gojek Deep Dive
+category: east-meets-west
+---
 
-![](https://ryanrodenbaugh.com/content/images/2020/08/Group-3-2.png)
+_This post originally appeared on Substack as a part of my newsletter, [East Meets West](https://eastmeetswest.substack.com/?ref=ryanrodenbaugh.com)._
 
 Gojek (sometimes Go-Jek) is an Indonesian “Super App.”
 

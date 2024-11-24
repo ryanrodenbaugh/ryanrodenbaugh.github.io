@@ -1,12 +1,11 @@
 ---
 layout: post
-title: WeChat (Part Two) A Not So Brief History
+title: WeChat A Not So Brief History (Part Two)
 category: east-meets-west
 ---
 
 __This post originally appeared on Substack as a part of my newsletter,__ [__East Meets West__](https://eastmeetswest.substack.com/?ref=ryanrodenbaugh.com)__.__
 
-![](https://ryanrodenbaugh.com/content/images/2020/08/Group-3-3.png)
 
 If you’re reading this post, but haven’t read **[WeChat (Part 1): A Not So Brief History](https://eastmeetswest.substack.com/p/wechat-a-not-so-brief-history?ref=ryanrodenbaugh.com),** you should check that out first!
 

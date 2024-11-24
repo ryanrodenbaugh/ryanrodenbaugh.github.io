@@ -1,3 +1,8 @@
+---
+layout: post
+title: Cash App as a Super App $SQ
+category: east-meets-west
+---
 _This post originally appeared on Substack as a part of my newsletter, [**East Meets West**](https://eastmeetswest.substack.com/?ref=ryanrodenbaugh.com)_
 
 ![](https://ryanrodenbaugh.com/content/images/2021/01/Frame-8.png)

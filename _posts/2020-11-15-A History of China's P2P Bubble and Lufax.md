@@ -1,6 +1,10 @@
-_This post originally appeared on Substack as a part of my newsletter, [**East Meets West**](https://eastmeetswest.substack.com/?ref=ryanrodenbaugh.com)**.**_ Please subscribe there for now
+---
+layout: post
+title: A History of China's P2P Bubble and Lufax
+category: east-meets-west
+---
 
-![](https://ryanrodenbaugh.com/content/images/2020/10/Frame-8.png)
+_This post originally appeared on Substack as a part of my newsletter, [**East Meets West**](https://eastmeetswest.substack.com/?ref=ryanrodenbaugh.com)**.**_ Please subscribe there for now
 
 Follow me on Twitter: @ryanrodenbaugh
 

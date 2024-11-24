@@ -1,3 +1,9 @@
+---
+layout: post
+title: Aspiring Super App Series "#"1 WhatsApp + Facebook
+category: east-meets-west
+---
+
 -   _This post originally appeared on Substack as a part of my newsletter, [East Meets West](https://eastmeetswest.substack.com/?ref=ryanrodenbaugh.com). Please follow that link to subscribe._
 -   _A slightly edited version of this article was also republished on TechinAsia.com, you can read that [here](https://www.techinasia.com/whatsapp-facebooks-super-app-ambitions?ref=ryanrodenbaugh.com)._
 

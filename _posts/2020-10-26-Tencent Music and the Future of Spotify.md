@@ -1,3 +1,9 @@
+---
+layout: post
+title: Tencent Music and the Future of Spotify
+category: east-meets-west
+---
+
 _This post originally appeared on Substack as a part of my newsletter, [East Meets West](https://eastmeetswest.substack.com/?ref=ryanrodenbaugh.com)_
 
 ![](https://ryanrodenbaugh.com/content/images/2020/10/Frame-8.png)
