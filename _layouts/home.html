@@ -23,13 +23,13 @@ layout: default
       {% endif %}
         <li>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          {% if post.category == "east-meets-west" %}
+          {% if post.category == "east-meets-west" or post.categories contains "east-meets-west" %}
             <a href="/east-meets-west" class="category-tag">
               <img src="/assets/emwlogo.png" alt="EMW" class="emw-icon">
               EMW
             </a>
           {% endif %}
-          {% if post.category == "crypto" %}
+          {% if post.category == "crypto" or post.categories contains "crypto" %}
             <a href="/crypto" class="category-tag">
               <img src="/assets/btc.png" alt="Crypto" class="emw-icon">
               CRYPTO
