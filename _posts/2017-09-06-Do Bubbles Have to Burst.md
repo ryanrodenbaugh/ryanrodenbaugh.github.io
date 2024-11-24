@@ -1,3 +1,10 @@
+---
+layout: post
+title: Do Bubbles Have to Burst?
+categories: crypto
+date: 2017-09-06
+---
+
 I compare the feeling of waiting for an economic bubble to burst to being on a long plane ride without any idea what time it is. A non-stop flight from SFO to China is 13 hours and if you read for a while, doze off, and don't look at the clock, it would be very easy to think you are much closer to or farther from your destination than you actually are. That’s how I feel about the current cryptocurrency space. Except in crypto, I feel like our plane might be flying into an interdimensional vortex, and may never land where we expect it to. Hell, if it does land, it might land on the same island that [Oceanic Flight 815](https://lostpedia.fandom.com/wiki/Flight_path_of_Oceanic_815?ref=ryanrodenbaugh.com) did.
 
 I find it hard to read anything from anyone these days that doesn’t believe we are in some degree of a bubble (whether good because it’s bringing attention to the space or bad because a lot of people are going to get hurt badly if/when it burst). And with that, I agree. We are in the run-up period (potentially in the very early run-up) of a cryptocurrency bubble.

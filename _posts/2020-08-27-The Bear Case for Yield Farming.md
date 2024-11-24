@@ -1,3 +1,10 @@
+---
+layout: post
+title: The Bear Case for Yield Farming
+categories: crypto
+date: 2020-08-27
+---
+
 _This post originally appeared in the [Bankless newsletter](https://bankless.substack.com/p/the-bear-case-for-yield-farming?ref=ryanrodenbaugh.com) on August 27, 2020 and was co-authored with [Baptiste Vauthey](https://twitter.com/thabaptiser?ref=ryanrodenbaugh.com). You might also consider subscribing to [Bankless](http://bankless.substack.com/?ref=ryanrodenbaugh.com), one of the top paid newsletters on Substack._
 
 ___
