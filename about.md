@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Ryan Rodenbaugh. I am a co-founder of [Wallfacer Labs](https://wallfacer.io/), a crypto research and development company. Wallfacer has a great research blog you should [read](https://wallfacerlabs.substack.com/). I also host the Wallfacer podcast, which I'd love for you to [listen to](https://www.buzzsprout.com/2254231). 
+My name is Ryan Rodenbaugh. I am a co-founder of [Wallfacer Labs](https://wallfacer.io/), a crypto research and development company. Wallfacer has a great research blog you should [read](https://wallfacerlabs.substack.com/). I also host the Wallfacer podcast, which I'd love for you to [listen to](https://www.wallfacer.io/podcast). 
 
 You can find me on [Twitter](https://twitter.com/RyanRodenbaugh/), [Instagram](https://www.instagram.com/ryanrodenbaugh/), and [Farcaster](https://warpcast.com/ryanrodenbaugh). 
 
