@@ -76,9 +76,10 @@ hr {
 }
 
 .emw-icon {
-  height: 14px;  /* adjust this size if needed */
+  height: 0.8em;  /* matches the font size */
   width: auto;
-  margin-right: 4px;
+  margin-right: 3px;
+  vertical-align: middle;
 }
 
 .category-tag:hover {
