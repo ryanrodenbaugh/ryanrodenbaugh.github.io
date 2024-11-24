@@ -1,3 +1,10 @@
+---
+layout: post
+title: Aggregation Theory Applied to DeFi
+categories: crypto
+date: 2020-07-09
+---
+
 _This post originally appeared on [Deribit Insights](https://insights.deribit.com/market-research/aggregation-theory-applied-to-defi/?ref=ryanrodenbaugh.com) and was co-authored with [Baptiste Vauthey](https://twitter.com/thabaptiser?ref=ryanrodenbaugh.com)._
 
 ![](https://ryanrodenbaugh.com/content/images/2020/07/image.png)
