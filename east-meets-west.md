@@ -4,7 +4,7 @@ title: East Meets West
 permalink: /east-meets-west/
 ---
 
-![East Meets West Banner](emwlong.png)
+![East Meets West Banner](/assets/emwlong.png)
 
 I was -- and still am -- very interesed in the tech industry in Asia. While many
 
