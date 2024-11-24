@@ -11,10 +11,6 @@ category: crypto
 
 As yields in DeFi have been squashed, market participants have begun looking for sources of yield off-chain. As a result, "real-world assets" (RWA) have become an area of increasing focus within crypto markets with teams looking to bring off-chain asset exposure on-chain.
 
-## Intro
-
-As yields in DeFi have been squashed, market participants have begun looking for sources of yield off-chain. As a result, "real-world assets" (RWA) have become an area of increasing focus within crypto markets with teams looking to bring off-chain asset exposure on-chain.
-
 RWA protocols have the opportunity to bridge the gap between off-chain opportunities and on-chain participants. Many believe that bringing products like treasury bills or investment-grade bonds on-chain will increase the use cases and sustainability of crypto.
 
 In the excitement about the financial products RWA protocols can offer, few are asking how sustainable the underlying protocols are themselves.
