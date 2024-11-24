@@ -4,14 +4,11 @@ title: East Meets West
 permalink: /east-meets-west/
 ---
 
-When I started writing East Meets West, I was -- and still am -- very interested in the tech industry in Asia. In the years leading up to beginning East Meets West, I had the opportunity to spend a lot of time living and working throughout Asia and always found it so surprising how isolated and understudied the tech industry in Asia was.
-As the "West" in East Meets West, I wanted to bring an outsider perspective to the companies and entrepreneurs in Asia.
+When I started writing East Meets West, I was – and still am – very interested in the tech industry in Asia. After spending years living and working throughout the region, I found it surprising how isolated and understudied its tech industry was. As the "West" in East Meets West, I wanted to bring an outsider perspective to these companies and entrepreneurs.
 
-I felt many people's views of tech in China and other Asia conutries was informed by Peter Thiel's Zero to One quote, "The easiest way for China to grow is to relentlessly copy what has already worked in the West."
+I felt many people's views of tech in Asia were shaped by Peter Thiel's Zero to One quote: "The easiest way for China to grow is to relentlessly copy what has already worked in the West." While this was true at some point, it isn't anymore. Today, Western technology companies, especially those focused on consumers, are looking to China and Southeast Asia to copy ideas from Asia's best entrepreneurs.
 
-At some point, that was true. However, I don't think it is anymore. Western technology companies, especially those focused on consumers, are now looking to China and Southeast Asia to copy ideas from Asia's best entrepreneurs.
-
-As of 2021, I stopped writing about East Meets West. While I still read and learn about the tech industry in Asia, I don't have the time to write about it anymore as all my attention has refocused to crypto markets and my company, [Wallfacer Labs](/about)
+As of 2021, I stopped writing about East Meets West as my attention refocused on crypto markets and my company, [Wallfacer Labs](/about). Though I still follow the Asian tech industry, I no longer have time to write about it.
 
 
 
