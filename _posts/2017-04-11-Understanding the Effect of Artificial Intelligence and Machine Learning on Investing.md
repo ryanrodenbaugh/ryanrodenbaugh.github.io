@@ -1,11 +1,8 @@
 ---
 layout: post
 title:	Understanding the Impact of Machine Learning
-date:	2017-04-11
-author:	Ryan Rodenbaugh
-description: N/A
-ogimage: opengraphimage.jpeg
-
+categories: random
+date:2017-04-11
 ---
 
 From the birth of statistics with the publishing of Bayes theorem in 1763 to Alan Turing’s learning machine in 1950 to the self-driving cars of today, machine learning and artificial intelligence have been integral parts of the human experience.  Although artificial intelligence has been in the works for decades, it was not until the late 90s that machine learning started to become a part of our everyday lives. With the advent of Google, machine learning and algorithms became an integral and irremovable part of day-to-day activities in the internet-age. The investing community has not been untouched by the influence of machine learning and artificial intelligence either. While the totality of the effect of machine learning and artificial intelligence on investing is near impossible to accurately measure, I believe that that the current impact of artificial intelligence on investing has already begun to take effect in small (and quickly growing) sophisticated investing circles and that the long-term effects – as this technology continues to develop – will change the entire way that we think about investing and markets.

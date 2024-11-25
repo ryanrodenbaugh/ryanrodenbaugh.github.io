@@ -1,3 +1,10 @@
+---
+layout: post
+title: Calendar Auditing
+categories: random
+date: 2019-07-17
+---
+
 I listened to Keith Rabois’s “How to Operate” ([Video](https://www.youtube.com/watch?v=6fQHLK1aIBs&ref=ryanrodenbaugh.com), [Transcript](https://genius.com/Keith-rabois-lecture-14-how-to-operate-annotated?ref=ryanrodenbaugh.com)) a while back and learned about the simple concept of a “Calendar Audit”.
 
 ****Keith Rabois:****

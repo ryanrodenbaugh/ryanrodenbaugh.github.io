@@ -1,11 +1,8 @@
 ---
 layout: post
 title:	Copy, Paste and Modify
-date:	2017-08-03
-author:	Ryan Rodenbaugh
-description: N/A
-ogimage: opengraphimage.jpeg
-
+categories: random
+date:2017-08-03
 ---
 There was a comment I read on Producthunt.com a while back, that really stuck with me.  
 

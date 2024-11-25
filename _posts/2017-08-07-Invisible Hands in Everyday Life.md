@@ -1,3 +1,10 @@
+---
+layout: post
+title: Invisible Hands in Everyday Life
+categories: random
+date: 2017-08-07
+---
+
 > When you understand even part of one side of it, it’s easy to see that that particular part works. And clearly the ecosystem works. ****But how do the other parts (the ones you don’t understand) work?**** Some sort of sorcery. Magic. Just like an Ouija board, ****it seems controlled by a mysterious mind. Adam Smith called this the Invisible hand.****
 > 
 > ****If you trust in Bitcoin you don’t need to trust all of the thieves and liars using it. I.e. instead of humans you trust the invisible hand.**** The blockchain gives you the truth. In a way very resemblant of holy scriptures. Just like with religion, the truth offered by the blockchain is very different from the truth offered by the nation state governments, and the conflict between bitcoin and the state will be similar to the conflict between the religion and the state.
