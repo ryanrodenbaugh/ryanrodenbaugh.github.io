@@ -1,3 +1,10 @@
+---
+layout: post
+title: Grocery Stores
+categories: random
+date: 2020-03-30
+---
+
 Going to the grocery store this morning (2020/03/29 8:30am PST) was a weird experience. I live near a Safeway and Whole Foods. I usually go to Safeway, which opens at 6:00 but the line [was wrapped around the store](https://t.umblr.com/redirect?z=https%3A%2F%2Fphotos.app.goo.gl%2FXbycu63Fw73GAhbM7&t=OGIzYjdmZWRmMTZlNDRjZDJiZjNlMjNhMGZlZDExOTZhNjFhMDMwZSxkeVhLb2p2RA%3D%3D&b=t%3AokV1QflKCp7Agf216l_L8Q&p=https%3A%2F%2Fryanrodenbaugh.com%2Fpost%2F614054426107330560%2Fgrocery-stores&m=1&ref=ryanrodenbaugh.com) by the time I arrived. I went over to Whole Foods which opens at 9:00 and I was the 4th person in line. By the time 9:00 came, the line was [~30 people long](https://t.umblr.com/redirect?z=https%3A%2F%2Fphotos.app.goo.gl%2FXbycu63Fw73GAhbM7&t=OGIzYjdmZWRmMTZlNDRjZDJiZjNlMjNhMGZlZDExOTZhNjFhMDMwZSxkeVhLb2p2RA%3D%3D&b=t%3AokV1QflKCp7Agf216l_L8Q&p=https%3A%2F%2Fryanrodenbaugh.com%2Fpost%2F614054426107330560%2Fgrocery-stores&m=1&ref=ryanrodenbaugh.com)
 
 Most people in the store were not wearing gloves or masks. Many people were acting as if it were a [normal morning](https://twitter.com/RyanRodenbaugh/status/1244322936275603456?s=20&ref=ryanrodenbaugh.com). This got me thinking about grocery stores.

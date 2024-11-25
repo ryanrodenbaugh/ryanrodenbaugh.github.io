@@ -1,3 +1,10 @@
+---
+layout: post
+title: Post COVID-19 Predictions
+categories: random
+date: 2020-04-28
+---
+
 ### Persistent adoption of mobile ordering platforms
 
 As people are trying to avoid leaving their homes, mobile ordering apps (e.g., Instacart, Uber Eats) have had strong and cheap customer acquisition. As a result of COVID, people will realize that apps like Instacart are not too expensive when you consider time and effort saved and have great user-experiences. I expect a lot of the growth these apps experience during COVID will persist. In a 2017 [blog post](https://ryanrodenbaugh.com/post/166686866887/roadblocks-for-autonomous-vehicles) (Cntrl+F “Instacart”) I shared a map of cities that Instacart operated in at the time and it was very limited to the coasts and some large cities throughout the rest of the US. At this point, it seems like they’ve [expanded](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.instacart.com%2Fgrocery-delivery%2Fregions&t=ODcyNzU5OGYwZDk4NmI0NjNkYjFkOGI3MjRmMTk3MjlhNjAyNTUzZSxFOEtEZHp2WQ%3D%3D&b=t%3AokV1QflKCp7Agf216l_L8Q&p=https%3A%2F%2Fryanrodenbaugh.com%2Fpost%2F616683225778208768%2Fpost-covid19-predictions&m=1&ref=ryanrodenbaugh.com) to all 50 states. Instacart is serving a critical role for consumers during COVID and is attracting a lot of new ‘shoppers’ as Uber and Lyft drivers have seen their number of riders drop off a cliff. In the [second bullet of my post on grocery stores](https://ryanrodenbaugh.com/post/614054426107330560/grocery-stores), I talk about some of the additional accommodations stores should make for Instacart shoppers.

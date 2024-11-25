@@ -1,3 +1,10 @@
+---
+layout: post
+title: Making Tough Decisions
+categories: life
+date: 2020-04-12
+---
+
 In high school, I was talking with a friend about Obama. My friend was critical of a decision Obama made (doesn’t matter which decision) and while I wasn’t well versed on the specific issue, I knew it was complex. I defended Obama on the basis that he probably had vastly more information than we did and I was fairly certain he didn’t come to the decision lightly.
 
 This week, I saw Trump address reports about ‘reopening the economy’ in the face of COVID-19 and he called it the “Biggest Decision of his life” (2:33 in this [video](https://t.umblr.com/redirect?z=https%3A%2F%2Fyoutu.be%2Fien97HT7Wpk%3Ft%3D153&t=N2Q1NjRhOGZkZTI1ZjA2ZDZhMWU1NTJhMDFlYmNmNDlhZGQwODMwOCxuNHVEcHp4cg%3D%3D&b=t%3AokV1QflKCp7Agf216l_L8Q&p=https%3A%2F%2Fryanrodenbaugh.com%2Fpost%2F615225053475422208%2Fmaking-tough-decisions&m=1&ref=ryanrodenbaugh.com)). I was really taken back by the clip and it felt like the most genuine clip of Trump I’d ever seen. Trump is many things, including an [actor](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5NsrwH9I9vE&t=YjE5NjUyYzM1NWViMmVkNmNiNGM2MjZjY2U2OTg5MjhjMjgwZmMxOSxuNHVEcHp4cg%3D%3D&b=t%3AokV1QflKCp7Agf216l_L8Q&p=https%3A%2F%2Fryanrodenbaugh.com%2Fpost%2F615225053475422208%2Fmaking-tough-decisions&m=1&ref=ryanrodenbaugh.com), of which he often seems to be using those talents. However, this clip felt like something different and reminded me of the appreciation I have for people who have to make tough decisions in the face of uncertainty.
