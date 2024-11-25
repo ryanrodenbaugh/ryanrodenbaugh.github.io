@@ -1,3 +1,10 @@
+---
+layout: post
+title: Your Title Here
+categories: life
+date: 2017-10-22
+---
+
 When thinking about the rise of autonomous vehicles (”AV”) in the United States, there are several _speed bumps_ that need to be addressed. I believe most concerns fall into three main buckets:
 
 1.  Consumer adoption — outside of tech hubs and urban areas, what are everyday people saying about autonomous cars? How are other factors like trends in car ownership impacting autonomous vehicles potential?

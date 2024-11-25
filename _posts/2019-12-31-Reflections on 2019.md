@@ -1,3 +1,10 @@
+---
+layout: post
+title: Reflections on 2019
+categories: life
+date: 2019-12-31
+---
+
 Reflections on 2019
 
 2019 was a good year and I am looking forward to a lot of change in 2020. Some lessons/reflections and random notes

@@ -1,3 +1,10 @@
+---
+layout: post
+title: Small Business Post-COVID
+categories: random
+date: 2020-08-03
+---
+
 It's impossible to go a few days without reading a story of a local businesses in the US closing as a result of COVID.
 
 I left San Francisco in June 2020, but already by that point (3.5 months into the lockdown), many of the local businesses in my popular neighborhood had closed down temporarily or permanently. The SF Chronicle has been tracking SF-business permanent closures and updates at [this link](https://www.sfchronicle.com/food/article/Bay-Area-restaurants-latest-updates-Food-15130419.php?ref=ryanrodenbaugh.com) regularly.

@@ -1,3 +1,10 @@
+---
+layout: post
+title: Reflections on the Past 2 Decades & Predictions on the Decade Ahead
+categories: life
+date: 2020-01-02
+---
+
 For many people, talk of the 1920s or 1970s brings immediate images to mind. Here’s my best attempt for those images of the '00s and '10s along with predictions for the 20s.
 
 ****The 2000s: Decade of Lies / The Last Decade of Trusted Institutions****

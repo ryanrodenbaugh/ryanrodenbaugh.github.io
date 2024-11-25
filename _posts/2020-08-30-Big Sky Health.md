@@ -1,3 +1,10 @@
+---
+layout: post
+title: Big Sky Health
+categories: random
+date: 2020-08-30
+---
+
 Building one really good consumer app is tough.
 
 Building two is impressive.

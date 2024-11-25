@@ -1,3 +1,10 @@
+---
+layout: post
+title: Tolerance
+categories: life
+date: 2019-09-18
+---
+
 There is a paragraph in Timur Kuran’s “[Private Truth, Public Lies](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.amazon.com%2FPrivate-Truths-Public-Lies-Falsification%2Fdp%2F0674707583&t=NzI1MjQxZTY1YTQyODgzNjU4YWJiZWRiMTY1MzZhZjNlMDBkNzVlZixncDV1c0tIQQ%3D%3D&b=t%3AokV1QflKCp7Agf216l_L8Q&p=https%3A%2F%2Fryanrodenbaugh.com%2Fpost%2F187808080487%2Ftolerance&m=1&ref=ryanrodenbaugh.com)” which reads:
 
 > Secret balloting would serve no purpose if everyone were willing to put up with every offensive idea. Under such conditions of exemplarary tolerance, no one would ever seek punitive actions against others for their political views. By this account, ****to show tolerance is to object to an idea without objecting to its expression****. It is to be prepared, more over, to live with the consequent inner tensions. Perfectly tolerant individuals would not even frown at a speaker promoting the most repulsive ideas. They might, of course, express reservations and offer alternatives. Tolerance is not apathy, indifference, or diffidence. What it requires is acceptance of the principle that no political lend, however noble, justified the suppression of an idea.

@@ -1,3 +1,10 @@
+---
+layout: post
+title: Remote Work Impact on Software Salaries
+categories: random
+date: 2020-08-12
+---
+
 1
 
 In 2018, I attended a dinner where the topic was how “AI” how would impact workers. For most of the dinner, everyone focused on how blue-collar workers would be impacted by robotics and automation. Naturally, there was lots of talk about trucking being the #1 job in many states, how it was highly prone to automation, and how we should have a UBI to protect our most vulnerable.

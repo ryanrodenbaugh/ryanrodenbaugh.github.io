@@ -1,3 +1,10 @@
+---
+layout: post
+title: How I Use Twitter
+categories: life
+date: 2019-12-24
+---
+
 When used with intent, Twitter can be one of the best learning and growth tools on the internet. I had a semi-pseudonymous Twitter in middle school (~2008) that I mostly used to follow friends, shit post, and make jokes. I deleted that one when I went to college and started over with my current account [@RyanRodenbaugh](https://twitter.com/RyanRodenbaugh?ref=ryanrodenbaugh.com). When I started following people, I followed aspirational peers rather than only people I knew IRL.
 
 If I were remaking my Twitter today, I would begin by following active Tweeters in field(s) interesting to me. In my case, this would be:

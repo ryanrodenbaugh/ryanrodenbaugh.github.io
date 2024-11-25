@@ -1,3 +1,10 @@
+---
+layout: post
+title: Writing in Pursuit of Clarity
+categories: life
+date: 2020-08-19
+---
+
 _This post originally appeared on the [Renaissance Collective blog](https://www.renaissancecollective.co/renco-blog/writing-in-pursuit-of-clarity?ref=ryanrodenbaugh.com), a wonderful community that I am a part of. This post was co-authored with [Kali Borkoski](https://www.linkedin.com/in/kali-borkoski-998082171/?ref=ryanrodenbaugh.com)._
 
 ****The skill of writing _is_ the skill of creating clarity.****

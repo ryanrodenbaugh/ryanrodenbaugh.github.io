@@ -1,3 +1,10 @@
+---
+layout: post
+title: Meditation for Skeptics
+categories: life
+date: 2020-08-17
+---
+
 During 2020, I've been able to make meditation a regular practice.
 
 This was kickstarted in April of 2020 when I attended a "virtual mediation retreat" with teachers from India. I meditated for two hours per day (one hour in the morning, one hour at night) for one week and spoke daily with the teachers and other meditators.

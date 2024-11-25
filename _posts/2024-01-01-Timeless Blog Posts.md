@@ -1,3 +1,10 @@
+---
+layout: post
+title: Timeless Blog Posts
+categories: life
+date: 2024-01-01
+---
+
 # Lindy Blog Posts
 
 ## Sort by Controversial / Scissor Statements

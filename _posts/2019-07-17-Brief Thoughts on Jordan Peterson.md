@@ -1,3 +1,10 @@
+---
+layout: post
+title: Brief Thoughts on Jordan Peterson
+categories: random
+date: 2019-07-17
+---
+
 I recently read Jordan Peterson’s best-seller “12 Rules for Life”, which was on the Amazon Most Sold and Most Read lists for 52+ weeks each. I have enjoyed thinking about Jordan Peterson’s opinions since I first came across him when I was still in college thanks to a well-shared video of him debating with students outside of the University of Toronto ([Link](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DO-nvNAcvUPE&t=MjY0MTIxODMzMzZjNDAxMmQ4ZDEwZjQxYmQ5Y2UwZDc1MGUwYjU5Nyx0b3FiUkhhZw%3D%3D&b=t%3AokV1QflKCp7Agf216l_L8Q&p=https%3A%2F%2Fryanrodenbaugh.com%2Fpost%2F186357940997%2Fbrief-thoughts-on-jordan-peterson&m=1&ref=ryanrodenbaugh.com)).
 
 I heard him say in a podcast a while back (I forget which) that 12 Rules for Life (his 2nd book) could be thought of as a summary, a more accessible version of ”Maps of Meaning” (his 1st book). I found this funny because 12 Rules for Life is not the most accessible book. And ultimately, I think this is JPs greatest strength and greatest weakness.
