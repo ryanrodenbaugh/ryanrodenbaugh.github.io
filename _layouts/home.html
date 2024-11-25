@@ -14,41 +14,43 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     {% for post in site.posts %}
-      {% assign currentdate = post.date | date: "%Y" %}
-      {% if currentdate != date %}
-        {% unless forloop.first %}</ul>{% endunless %}
-        <h2>{{ currentdate }}</h2>
-        <ul class="more-space">
-        {% assign date = currentdate %}
+      {% if post.title and post.url %}
+        {% assign currentdate = post.date | date: "%Y" %}
+        {% if currentdate != date %}
+          {% unless forloop.first %}</ul>{% endunless %}
+          <h2>{{ currentdate }}</h2>
+          <ul class="more-space">
+          {% assign date = currentdate %}
+        {% endif %}
+          <li>
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            {% if post.category == "east-meets-west" or post.categories contains "east-meets-west" %}
+              <a href="/east-meets-west" class="category-tag">
+                <img src="/assets/emwlogo.png" alt="EMW" class="emw-icon">
+                EMW
+              </a>
+            {% endif %}
+            {% if post.category == "crypto" or post.categories contains "crypto" %}
+              <a href="/crypto" class="category-tag">
+                <img src="/assets/btc.png" alt="Crypto" class="emw-icon">
+                CRYPTO
+              </a>
+            {% endif %}
+            {% if post.category == "life" or post.categories contains "life" %}
+              <a href="/life" class="category-tag">
+                <img src="/assets/zimacircle.png" alt="Life" class="emw-icon">
+                LIFE
+              </a>
+            {% endif %}
+            {% if post.category == "random" or post.categories contains "random" %}
+              <a href="/random" class="category-tag">
+                <img src="/assets/blackcircle.png" alt="Random" class="emw-icon">
+                RANDOM
+              </a>
+            {% endif %}
+          </li>
+        {% if forloop.last %}</ul>{% endif %}
       {% endif %}
-        <li>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          {% if post.category == "east-meets-west" or post.categories contains "east-meets-west" %}
-            <a href="/east-meets-west" class="category-tag">
-              <img src="/assets/emwlogo.png" alt="EMW" class="emw-icon">
-              EMW
-            </a>
-          {% endif %}
-          {% if post.category == "crypto" or post.categories contains "crypto" %}
-            <a href="/crypto" class="category-tag">
-              <img src="/assets/btc.png" alt="Crypto" class="emw-icon">
-              CRYPTO
-            </a>
-          {% endif %}
-          {% if post.category == "life" or post.categories contains "life" %}
-            <a href="/life" class="category-tag">
-              <img src="/assets/zimacircle.png" alt="Life" class="emw-icon">
-              LIFE
-            </a>
-          {% endif %}
-          {% if post.category == "random" or post.categories contains "random" %}
-            <a href="/random" class="category-tag">
-              <img src="/assets/blackcircle.png" alt="Random" class="emw-icon">
-              RANDOM
-            </a>
-          {% endif %}
-        </li>
-      {% if forloop.last %}</ul>{% endif %}
     {% endfor %}
   {%- endif -%}
 
