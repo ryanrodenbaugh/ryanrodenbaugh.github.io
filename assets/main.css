@@ -87,17 +87,23 @@ hr {
 }
 
 blockquote {
-    margin: 2em 0;
-    padding: 1em 2em;
-    background-color: #fafafa;
-    border: 1px solid #eee;
-    border-radius: 4px;
-    font-style: italic;
-    color: #666;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    display: block;
+    margin: 2em 0 !important;
+    padding: 1em 2em !important;
+    background-color: #ffffff !important;
+    border: 1px solid #eee !important;
+    border-radius: 4px !important;
+    font-style: italic !important;
+    color: #666 !important;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05) !important;
+    /* Reset the default margins */
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
 }
 
 blockquote p {
-    margin: 0;
-    line-height: 1.6;
+    margin: 0 !important;
+    line-height: 1.6 !important;
 }
