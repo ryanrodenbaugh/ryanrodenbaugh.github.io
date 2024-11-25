@@ -35,6 +35,18 @@ layout: default
               CRYPTO
             </a>
           {% endif %}
+          {% if post.category == "life" or post.categories contains "life" %}
+            <a href="/life" class="category-tag">
+              <img src="/assets/zimacircle.png" alt="Life" class="emw-icon">
+              LIFE
+            </a>
+          {% endif %}
+          {% if post.category == "random" or post.categories contains "random" %}
+            <a href="/random" class="category-tag">
+              <img src="/assets/blackcircle.png" alt="Random" class="emw-icon">
+              RANDOM
+            </a>
+          {% endif %}
         </li>
       {% if forloop.last %}</ul>{% endif %}
     {% endfor %}
