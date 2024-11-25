@@ -87,23 +87,16 @@ hr {
 }
 
 blockquote {
-    display: block;
-    margin: 2em 0 !important;
-    padding: 1em 2em !important;
-    background-color: #ffffff !important;
-    border: 1px solid #eee !important;
-    border-radius: 4px !important;
-    font-style: italic !important;
-    color: #666 !important;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05) !important;
-    /* Reset the default margins */
-    margin-block-start: 0;
-    margin-block-end: 0;
-    margin-inline-start: 0;
-    margin-inline-end: 0;
+    margin: 2em 0;
+    padding: 1em 1.5em;
+    border-left: 4px solid #4a9eff;
+    background-color: #f8f9fa;
+    border-radius: 0 4px 4px 0;
+    font-style: italic;
+    color: #555;
 }
 
 blockquote p {
-    margin: 0 !important;
-    line-height: 1.6 !important;
+    margin: 0;
+    line-height: 1.6;
 }
